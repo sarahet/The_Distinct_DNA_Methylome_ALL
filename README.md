@@ -1,4 +1,4 @@
-# The distinct DNA Methylome of acute lymphoblastic leukemia
+# The distinct DNA methylome of acute lymphoblastic leukemia
 
 ## Description
 
