@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the scripts to reproduce the figures presented in Hetzel et. al. 2022. Source data required as input for these scripts are deposited [here](https://oc-molgen.gnz.mpg.de/owncloud/s/Zg5HPmALQQw5HA3).
+This repository contains the scripts to reproduce the figures presented in Hetzel et. al. 2022. Source data required as input for these scripts are deposited at 10.5281/zenodo.6337435.
 
 ## Data availability
 
