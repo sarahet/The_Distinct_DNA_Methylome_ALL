@@ -1,8 +1,8 @@
-# The distinct DNA methylome of acute lymphoblastic leukemia
+# Acute lymphoblastic leukemia displays a distinct highly methylated genome
 
 ## Description
 
-This repository contains the scripts to reproduce the figures presented in Hetzel et. al. 2022. Source data required as input for these scripts are deposited at 10.5281/zenodo.6337435.
+This repository contains the scripts to reproduce the figures presented in Hetzel et. al. 2022 [Nature Cancer](https://www.nature.com/articles/s43018-022-00370-5). Source data required as input for these scripts are deposited at 10.5281/zenodo.6337435.
 
 ## Data availability
 
